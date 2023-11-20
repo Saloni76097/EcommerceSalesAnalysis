@@ -1,1 +1,3 @@
-# EcommerceSalesAnalysis
+## EcommerceSalesAnalysis
+
+THIS PROJECT REPRESENTS MY COMMAND ON EXCEL AND GOOGLE SHEETS.
